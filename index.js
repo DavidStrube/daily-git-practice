@@ -1,1 +1,1 @@
-import NodeStruct from "./modules/NodeStruct.js";
+import Node from "./modules/Node.js";
